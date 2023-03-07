@@ -1,0 +1,22 @@
+.table {
+    border-color: #c42126;
+}
+
+.statistics{
+    background-color: #febb2e;
+    width: 100%;
+    border: 1px solid black;
+    height: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.cashed{
+    width: 50%;
+    border-right: 1px solid black
+}
+
+.graph{
+    width: 50%;
+}
